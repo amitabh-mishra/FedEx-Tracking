@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>59267945056-gtiimu17na4n5k791qk3tneuip7ucavf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.59267945056-gtiimu17na4n5k791qk3tneuip7ucavf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBIkMm1JnWTSCCeWD52Gm4TBLxiVG6h2O4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>59267945056</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AmitabhMishra.FedEx</string>
+	<key>PROJECT_ID</key>
+	<string>fedex-88e98</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fedex-88e98.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:59267945056:ios:175468a626322af908e905</string>
+	<key>DATABASE_URL</key>
+	<string>https://fedex-88e98.firebaseio.com</string>
+</dict>
+</plist>
